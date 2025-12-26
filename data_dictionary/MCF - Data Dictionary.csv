@@ -1,0 +1,16 @@
+Column Name,Non-Null Count,Data Type,Unit,Min Value,Max Value,Average Value
+Date,3637,datetime64[ns],,01/01/2016,15/12/2025,23/12/2020
+Mine Days Work_days,3637,float64,days,0.000,1.000,0.993
+Mine Tons per Day_tpd,65,float64,tpd,0.000,3402.000,2413.788
+Feed Tonnage_tons,3621,float64,tons,0.000,4267.563,2108.104
+Feed Grade_Au gpt,3621,float64,Au gpt,0.000,11.463,4.191
+MCF_%,3633,float64,%,0.000,2.362,0.905
+Mill Days Work_days,3633,float64,days,0.000,1.000,0.962
+Mill Tons per Day_tpd,2,float64,tpd,0.000,0.000,0.000
+Milled Tonnage_tons,3612,float64,tons,272.228,3233.961,1985.267
+Milled Grade_Au gpt,3612,float64,Au gpt,1.535,8.201,3.736
+Gold Recovered_Au oz,3612,float64,Au oz,30.047,570.830,201.217
+Gold Recovery_%,3612,float64,%,0.607,1.000,0.850
+Gold Tails_Solid_Au gpt,3612,float64,Au gpt,0.000,4.091,0.532
+Gold Tails_Solution_Au gpt,3612,float64,Au gpt,-0.003,0.497,0.018
+Gold Tails_Total_Au gpt,3612,float64,Au gpt,0.000,1.739,0.552

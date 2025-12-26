@@ -1,0 +1,4 @@
+Column Name,Non-Null Count,Data Type,Unit,Min Value,Max Value,Average Value
+Date,3225,datetime64[ns],,01/01/2017,15/12/2025,02/07/2021
+Mine Tonnage_tons,3221,float64,tons,0.0000,4288.0000,2128.9354
+Mine Grade_Au gpt,3221,float64,Au gpt,0.0000,11.0600,4.1335

@@ -1,0 +1,15 @@
+Column Name,Non-Null Count,Data Type,Unit,Min Value,Max Value,Average Value
+Date,3263,datetime64[ns],,01/01/2017,15/12/2025,22/06/2021
+Tonnage Processed_tons,3263,float64,tons,0,3233.961,2056.116
+Head Grade_Au gpt,3263,float64,Au gpt,0,8.201,3.614
+Au Tails_Solid_Au gpt,3263,float64,Au gpt,0,1.128,0.496
+Au Tails_Soln_Au gpt,3263,float64,Au gpt,0,0.094,0.010
+Au Tails_Total_Au gpt,3263,float64,Au gpt,0,1.224,0.510
+Au Recovery_%,3263,float64,%,0,0.987,0.851
+Au_produced_Gold Recovered_Au oz,3263,float64,Au oz,0,535.035,205.609
+Au_produced_Bullion Produced_Au oz,3260,float64,Au oz,0,1352.196,171.869
+Head Grade_Ag gpt,3263,float64,Ag gpt,0,51.856,19.207
+Ag Tails_Ag gpt,3263,float64,Ag gpt,0,33.464,5.384
+Ag Recovery_%,3263,float64,%,0,0.939,0.714
+Ag_produced_Silver Recovered_Ag oz,3263,float64,Ag oz,0,3060.283,901.278
+Ag_produced_Bullion Produced_Ag oz,3260,float64,Ag oz,0,5812.123,769.942

@@ -1,0 +1,4 @@
+Column Name,Non-Null Count,Data Type,Unit,Min Value,Max Value,Average Value
+Date,3115,datetime64[ns],,01/01/2017,15/12/2025,29/06/2021
+Off-Vein_meterage_m,3115,float64,m,0,73.5000,16.6925
+On-Vein_meterage_m,3115,float64,m,0,204.3300,27.3853
